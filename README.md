@@ -6,10 +6,8 @@
 
 # 💻 Tech Stack:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=next,react,astro,angular,vue,express,tailwind,javascript,typescript,html,css,spring,java,flutter,dart,postgres,mysql,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=next,react,astro,angular,vue,node,express,tailwind,javascript,typescript,html,css,spring,java,flutter,dart,postgres,mysql,docker,git,github,neovim" />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=marcosportales&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=marcosportales&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosportales&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=marcosportales&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=marcosportales&theme=tokyonight&hide_border=false)<br/>
