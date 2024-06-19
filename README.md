@@ -5,9 +5,11 @@
 <br/>
 
 # 💻 Tech Stack:
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=next,react,astro,angular,vue,node,express,tailwind,javascript,typescript,html,css,spring,java,flutter,dart,postgres,mysql,docker,git,github,neovim" />
+<div>
+  <img src="https://skillicons.dev/icons?i=next,react,astro,angular,vue,nodejs,express,tailwind,javascript,typescript,html,css,spring,java,flutter,dart,postgres,mysql,docker,git,github,neovim" />
 </div>
+
+<br />
 
 ![](https://github-readme-stats.vercel.app/api?username=marcosportales&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=marcosportales&theme=tokyonight&hide_border=false)<br/>
