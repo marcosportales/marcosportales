@@ -4,9 +4,9 @@
 
 <br/>
 
-# 💻 Tech Stack   🔧 Tools:
+# 💻 Tech Stack:
 <div>
-  <img src="https://skillicons.dev/icons?i=next,react,astro,angular,vue,nodejs,express,tailwind,javascript,typescript,html,css,spring,java,flutter,dart,cpp,postgres,mysql,docker,git,github,neovim,idea" />
+  <img src="https://skillicons.dev/icons?i=next,react,astro,angular,vue,nodejs,express,tailwind,javascript,typescript,html,css,spring,java,flutter,dart,cpp,postgres,mysql,docker,git,github" />
 </div>
 
 <br />
