@@ -6,7 +6,7 @@
 
 # 💻 Tech Stack:
 <div>
-  <img src="https://skillicons.dev/icons?i=next,react,astro,angular,vue,nodejs,express,tailwind,javascript,typescript,html,css,spring,java,flutter,dart,postgres,mysql,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=next,react,astro,angular,vue,nodejs,express,tailwind,javascript,typescript,html,css,spring,java,flutter,dart,postgres,mysql,docker,git,github,linux" />
 </div>
 
 <br />
