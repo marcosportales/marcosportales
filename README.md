@@ -6,21 +6,21 @@
 
 I'm Marcos Portales, a full stack developer in Córdoba, Spain. I build the interface and the backend behind it, mostly in TypeScript and Python.
 
-I studied Computer Science at UCLV in Cuba. Since then I've worked on an electronic signature platform that thousands of people signed through, a metro network simulator drawn with D3.js, and an eco-cement plant connected over industrial IoT. Spanish is my first language and my English is at a B1 level.
+I studied Computer Science at UCLV in Cuba. Since then I've worked on an electronic signature platform used by thousands of people, a metro network simulator drawn with D3.js, and an eco-cement plant connected over industrial IoT. Spanish is my first language and my English is at a B1 level.
 
-I'm open to frontend and full stack projects. [LinkedIn](https://www.linkedin.com/in/marcosportales2002) is the fastest way to reach me.
+I'm open to frontend and full stack projects. You can reach me on [LinkedIn](https://www.linkedin.com/in/marcosportales2002) or through the form on [marcosportales.dev](https://marcosportales.dev).
 
 ## 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=next,react,astro,vue,angular,nodejs,nestjs,express,tailwind,typescript,javascript,html,css,python,postgres,redis,docker,git,github,linux" alt="Next.js, React, Astro, Vue, Angular, Node.js, NestJS, Express, Tailwind CSS, TypeScript, JavaScript, HTML, CSS, Python, PostgreSQL, Redis, Docker, Git, GitHub, Linux" />
+  <img src="https://skillicons.dev/icons?i=next,react,astro,vue,angular,nodejs,nestjs,fastapi,tailwind,typescript,javascript,html,css,python,postgres,redis,docker,git,github,linux" alt="Next.js, React, Astro, Vue, Angular, Node.js, NestJS, FastAPI, Tailwind CSS, TypeScript, JavaScript, HTML, CSS, Python, PostgreSQL, Redis, Docker, Git, GitHub, Linux" />
 </p>
 
-On the front end that means React, Next.js, and Tailwind. Behind it, Node, Nest, and PostgreSQL, with FastAPI and Python for the AI work and Docker for local setup. I've also shipped Vue and Angular, and I work with ThingsBoard for IIoT.
+On the front end that means React, Next.js, and Tailwind. Behind it, Node, Nest, and PostgreSQL, with Python for the AI work, FastAPI for backend APIs, and Docker for local setup. I've also shipped Vue and Angular, and I work with ThingsBoard for IIoT.
 
 ## 🚀 Featured projects
 
-**[Plataforma IIoT LC3 Eco-Cemento](https://github.com/marcosportales/nest-tb-api)** is the monitoring platform for an eco-cement plant, and my degree thesis. PLC variables flow into ThingsBoard, through a REST API and a WebSocket collector into PostgreSQL, and onto a React dashboard. Stack: NestJS, React, ThingsBoard, PostgreSQL, WebSocket. Selected as relevant at university level, and part of a national CITMA project.
+**[Plataforma IIoT LC3 Eco-Cemento](https://github.com/marcosportales/tb-front)** is the monitoring platform for an eco-cement plant, and my degree thesis. PLC variables flow into ThingsBoard, through a REST API and a WebSocket collector into PostgreSQL, and onto a React dashboard. Stack: NestJS, React, ThingsBoard, PostgreSQL, WebSocket. The collector is [nest-tb-api](https://github.com/marcosportales/nest-tb-api). Selected as relevant at university level, and part of a national CITMA project.
 
 **[Relay](https://github.com/marcosportales/relay)** is a visual, multiplayer builder for AI browser automations. You drag nodes onto a canvas, connect them, and the flow runs in a cloud browser with live step updates and session replay. Stack: Next.js, React Flow, Liveblocks, Stagehand, Browserbase, Trigger.dev.
 
